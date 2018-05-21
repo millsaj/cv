@@ -1,0 +1,32 @@
+\documentclass[10pt,a4paper]{article}
+
+\usepackage[a4paper,margin=0.75in]{geometry} % margins
+
+% language
+\usepackage[english]{babel}
+\hyphenation{Some-long-word}
+
+\usepackage{resume} % resume.sty  see https://github.com/cies/resume
+
+\usepackage[nolist]{acronym}
+
+% ================================================================================
+
+\begin{document}  
+\sloppy  % this to relax whitespacing in favour of straight margins
+
+\input{header}
+
+\input{experience}
+
+\input{skills}
+
+\input{education}
+
+\input{interests}
+
+\input{references}
+
+\input{acronyms}
+
+\end{document}
