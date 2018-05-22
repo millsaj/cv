@@ -2,9 +2,11 @@
 
 This repository holds the latex source for my CVs and uses `resume.sty` from [Cies Breijs](https://github.com/cies)' [repository](https://github.com/cies/resume) as a base.
 
-## Viewing the CV
+## Download the CV
 
-The up to date pdf version is available in `cv.pdf` for each branch, e.g. [master branch CV](https://github.com/ajmills21a/cv/blob/master/cv.pdf).
+The up to date pdf version is available as `cv.pdf` for each branch.
+
+Click [here](https://raw.githubusercontent.com/ajmills21a/cv/base/cv.pdf) to download a pdf of my main CV.
 
 My LinkedIn page is also available [here](https://www.linkedin.com/in/ajmills21a/).
 
@@ -22,6 +24,6 @@ I recommend you see the [Cies Breijs](https://github.com/cies)' version of this 
 
 ## Licence
 
-Do as you wish with the file `resume.sty` as it is MIT licensed (by [Cies Breijs](https://github.com/cies)) and originally sourced from https://github.com/cies/resume.
+Do as you wish with the file `resume.sty` as it is MIT licenced and originally sourced from https://github.com/cies/resume.
 
-All other files are [CC-NC-ND](http://creativecommons.org/licenses/by-nc-nd/3.0/) licensed.
+All text in the other files is [CC-NC-ND](http://creativecommons.org/licenses/by-nc-nd/3.0/) licenced.
