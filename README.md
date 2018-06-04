@@ -6,7 +6,7 @@ This repository holds the latex source for my CVs and uses `resume.sty` from [Ci
 
 The up to date pdf version is available as `cv.pdf` for each branch.
 
-Click [here](https://raw.githubusercontent.com/ajmills21a/cv/base/cv.pdf) to download a pdf of my main CV.
+Click [here](https://raw.githubusercontent.com/ajmills21a/cv/master/cv.pdf) to download a pdf of my main CV.
 
 My LinkedIn page is also available [here](https://www.linkedin.com/in/ajmills21a/).
 
