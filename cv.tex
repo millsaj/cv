@@ -6,29 +6,28 @@
 \usepackage[english]{babel}
 \hyphenation{Some-long-word}
 
-\usepackage{resume} % resume.sty  see https://github.com/cies/resume
-
-\usepackage[nolist]{acronym}
+\usepackage{resume} % resume.sty see https://github.com/cies/resume
+\frenchspacing
 
 % ================================================================================
 
 \begin{document}  
-\sloppy  % this to relax whitespacing in favour of straight margins
+	\sloppy  % this to relax whitespacing in favour of straight margins
+	
+	\input{header}
+	\spacedhrule{0.8em}{-0.4em}
 
-\input{header}
+	\input{experience}
+	\spacedhrule{0.8em}{-0.4em}
+	
+	\input{projects}
+	\spacedhrule{0.8em}{-0.4em}
+	
+	\input{skills}
+	\spacedhrule{0.8em}{-0.4em}
 
-\input{experience}
-
-\input{projects}
-
-\input{skills}
-
-\input{education}
-
-\input{interests}
-
-\input{references}
-
-\input{acronyms}
-
+	\input{education}
+	\spacedhrule{0.8em}{-0.4em}
+	
+	\input{references}
 \end{document}

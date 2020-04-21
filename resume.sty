@@ -22,16 +22,7 @@
 % OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 % SOFTWARE.
 
-%
-% This style contains some commands for making a LaTeX resume
-%
-% Please refer to the README.md file for more info.
-%
-% This project is currently hosted at: https://github.com/cies/resume
-%
-
-
-
+% This file was adapted from https://github.com/cies/resume and is still under the above MIT license.
 
 %%% LOAD AND SETUP PACKAGES
 
@@ -159,8 +150,8 @@
 % \spacedhrule a horizontal line with some vertical space before and after it
 \newcommand{\spacedhrule}[2]{\breakvspace{#1}\hrule\nobreakvspace{#2}}
 
-% \inlineheadsection command, used for a new employer
-\newcommand{\inlineheadsection}[2]{\begin{basedescript}{\setlength{\leftmargin}{\doubleparindent}}\item[\hspace{\newparindent}\textbf{#1}]#2\end{basedescript}\vspace{-1.7em}}
+% \inlineheadsection command
+\newcommand{\inlineheadsection}[2]{\nopagebreak[4]\begin{indentsection}\item[]\textbf{#1} #2\end{indentsection}}
 
 % apo command, for an apostrophe that looks good on old style nums
 \newcommand{\apo}{\raisebox{-.18ex}{'}{\hspace{-.1em}}}

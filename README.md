@@ -6,17 +6,9 @@ This repository holds the latex source for my CVs and uses `resume.sty` from [Ci
 
 The up to date pdf version is available as `cv.pdf` for each branch.
 
-Click [here](https://raw.githubusercontent.com/ajmills21a/cv/master/cv.pdf) to download a pdf of my main CV.
+Click [here](https://raw.githubusercontent.com/millsaj/cv/master/cv.pdf) to download a pdf of my main CV.
 
 My LinkedIn page is also available [here](https://www.linkedin.com/in/ajmills21a/).
-
-## Branches
-
-Multiple CVs are available for different job roles, these versions are held in branches as described below.
-
-- `base` - a base template for building new CVs, if building your own CV then you use this as a base.
-- `master` - this is my main CV and will likely be the most up to date
-- `hostelling` - this cv is targeted at travelling and working in a hostel
 
 ## Building
 
