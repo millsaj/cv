@@ -8,7 +8,7 @@ The up to date pdf version is available as `cv.pdf` for each branch.
 
 Click [here](https://raw.githubusercontent.com/millsaj/cv/master/cv.pdf) to download a pdf of my main CV.
 
-My LinkedIn page is also available [here](https://www.linkedin.com/in/millsaj-profile/).
+My LinkedIn page is also available [here](https://www.linkedin.com/in/ajmills21a/).
 
 ## Building
 
